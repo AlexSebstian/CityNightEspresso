@@ -39,13 +39,13 @@ header {
 }
 /* Offer text banner*/
 #offer {
-	font-family: 'Montserrat', sans-serif;
-	clear: both;
-	background-color: rgba(246,246,246,1.00);
-	color: rgba(146,146,146,1.00);
-	padding-left: 115px;
-	padding-top: 57px;
-	padding-bottom: 57px;
+    font-family: 'Montserrat', sans-serif;
+    clear: both;
+    background-color: rgba(28,170,221,1.00);
+    color: rgba(255,255,255,1.00);
+    padding-left: 115px;
+    padding-top: 57px;
+    padding-bottom: 57px;
 }
 /* Main content of the site */
 #content {
@@ -55,16 +55,16 @@ header {
 }
 /* Sidebar */
 #content .sidebar {
-	font-family: 'Montserrat', sans-serif;
-	color: rgba(146,146,146,1.00);
-	float: left;
-	width: 20%;
-	padding-left: 3%;
-	padding-right: 3%;
-	text-align: center;
-	background-color: rgba(246,246,246,1.00);
-	padding-top: 36px;
-	height: 784px;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFC1CC;
+    float: left;
+    width: 20%;
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: center;
+    background-color: rgba(88,195,233,1.00);
+    padding-top: 36px;
+    height: 784px;
 }
 /* main content of the site */
 #content .mainContent {
@@ -75,10 +75,10 @@ header {
 }
 /*menubar's properties for menus in sidebar */
 #content .sidebar #menubar {
-	text-align: left;
-	color: rgba(146,146,146,1.00);
-	position: relative;
-	left: 0%;
+    text-align: left;
+    color: #FFC1CC;
+    position: relative;
+    left: 0%;
 }
 /* Search field in sidebar */
 #content .sidebar #search {
@@ -189,8 +189,8 @@ footer div a {
 	text-decoration: none;
 }
 .sidebar #menubar .menu ul li a:hover {
-	color: rgba(107,97,97,1.00);
-	text-decoration: none;
+    color: #FFC1CC;
+    text-decoration: overline;
 }
 /* Menu headings in sidebar */
 #menubar .menu h2 {
